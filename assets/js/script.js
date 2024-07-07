@@ -16,7 +16,7 @@ form.addEventListener('submit', function(event) {
     const value = document.getElementById('value');
     let description = '';
 
-    value.classList.add('atention');
+    value.classList.add('attention');
 
     document.getElementById('infos').classList.remove('hidden');
 
